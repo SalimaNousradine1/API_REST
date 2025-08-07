@@ -1,0 +1,57 @@
+# -----------------------
+# Fichiers d'environnement
+# -----------------------
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Clés de chiffrement Dotenvx (si tu utilises dotenvx)
+.env.keys
+dotenvx-keys.json
+
+# -----------------------
+# Node.js & npm
+# -----------------------
+node_modules/
+npm-debug.log
+npm-debug.log.*
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+
+# -----------------------
+# Éditeurs & IDE
+# -----------------------
+# VS Code
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# -----------------------
+# Fichiers temporaires
+# -----------------------
+*.log
+logs
+coverage/
+.nyc_output/
+
+# -----------------------
+# Build & dist
+# -----------------------
+dist/
+build/
+out/
+.next/
+.nuxt/
+output/
+
+# -----------------------
+# OS
+# -----------------------
+# OS
+# -----------------------
+Thumbs.db
+.DS_Store
