@@ -13,13 +13,13 @@ En tant que développeur backend chez , ce projet consiste à développer une AP
 
 ##  Fonctionnalités
 
-- ✅ CRUD complet: Créer, Lire, Mettre à jour, Supprimer des produits
-- ✅ Validation des données (nom, prix, statut)
-- ✅ Mise à jour séparée du tatut en stock
-- ✅ Connexion à MongoDB Atlas
-- ✅ Sécurité : variables sensibles protégées via `.env` et `.gitignore`
-- ✅ Documentation intégrable avec Swagger (prévue)
-- ✅ Prêt à être déployé sur Render
+- CRUD complet: Créer, Lire, Mettre à jour, Supprimer des produits
+- Validation des données (nom, prix, statut)
+- Mise à jour séparée du tatut en stock
+- Connexion à MongoDB Atlas
+- Sécurité : variables sensibles protégées via `.env` et `.gitignore`
+- Documentation intégrable avec Swagger (prévue)
+- Prêt à être déployé sur Render
 
 ---
 
